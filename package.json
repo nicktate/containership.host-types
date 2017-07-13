@@ -15,8 +15,7 @@
     "@containership/containership.k8s.api-bridge": "git://github.com/containership/containership.k8s.api-bridge.git",
     "async": "^2.5.0",
     "containership.core.constants": "^0.3.0",
-    "lodash": "^4.17.4",
-    "node-uuid": "^1.4.8"
+    "lodash": "^4.17.4"
   },
   "devDependencies": {
     "eslint": "^3.19.0"
