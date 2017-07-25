@@ -1,6 +1,6 @@
 {
   "name": "@containership/containership.host-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,9 @@
   "author": "Containership Developers <developers@containership.io>",
   "license": "GPL-3.0",
   "dependencies": {
-    "@containership/containership.abstraction.host": "1.0.0",
-    "@containership/containership.api-bridge": "^0.1.0",
-    "@containership/containership.k8s.api-bridge": "^1.0.0",
+    "@containership/containership.abstraction.host": "^1.0.0",
+    "@containership/containership.api-bridge": "^0.1.1",
+    "@containership/containership.k8s.api-bridge": "^1.0.1",
     "async": "^2.5.0",
     "containership.core.constants": "^0.3.0",
     "lodash": "^4.17.4"
