@@ -11,7 +11,7 @@
   "license": "GPL-3.0",
   "dependencies": {
     "@containership/containership.abstraction.host": "^1.0.1",
-    "@containership/containership.api-bridge": "^0.1.1",
+    "@containership/containership.api-bridge": "^0.1.2",
     "@containership/containership.k8s.api-bridge": "^1.0.2",
     "async": "^2.5.0",
     "containership.core.constants": "^0.3.0",
